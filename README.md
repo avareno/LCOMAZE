@@ -98,13 +98,11 @@ The project is complete and fully functional. It includes the following devices 
 - **Algorithm to Solve the Maze**: Implementing Dijkstra’s Algorithm to calculate the optimal path.
 - **Collision System**: Ensuring players cannot phase through walls.
 
-### Menu
-
-A collection of buttons with on-click actions, implemented with a black background, centered horizontally, and changing color when hovered.
 
 ## Conclusion
 
 Overall, we are pleased with the final result. While it is a simple game, it effectively utilizes all the concepts taught in class in interesting ways. This project allowed us to solidify our knowledge of various concepts and provided a strong sense of accomplishment.
+For more info please checkout the video link: https://youtu.be/PioAfe_U2j4
 
 ## License
 
