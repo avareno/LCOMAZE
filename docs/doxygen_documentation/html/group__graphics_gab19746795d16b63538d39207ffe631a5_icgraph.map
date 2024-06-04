@@ -1,0 +1,20 @@
+<map id="vg_draw_rectangle_to_buffer" name="vg_draw_rectangle_to_buffer">
+<area shape="rect" id="Node000001" title="Draws a rectangle on a buffer with the specified position, size, and color." alt="" coords="626,73,774,116"/>
+<area shape="rect" id="Node000002" href="$group__menu.html#ga67437303ad652d440763730f50fa3eaf" title=" " alt="" coords="481,5,573,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,69,558,35,560,30,637,64"/>
+<area shape="rect" id="Node000006" href="$group__maze.html#ga1a872ef2b894c21b27733845d383891f" title=" " alt="" coords="483,56,571,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="610,84,571,78,572,73,611,79"/>
+<area shape="rect" id="Node000008" href="$group__maze.html#gaff19e9d5cfbdae617b8e9cd38cf7ed42" title=" " alt="" coords="476,107,578,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="611,110,578,115,577,110,610,105"/>
+<area shape="rect" id="Node000009" href="$group__graphics.html#gadd4131f7057e248ba74e16a71edd3a16" title="Fills the given buffer with the specified color." alt="" coords="492,157,562,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="637,125,560,159,558,154,635,120"/>
+<area shape="rect" id="Node000003" href="$group__menu.html#ga620fd28f0662fd27061296dc73763a0e" title="Draws all the buttons on the screen." alt="" coords="329,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,21,429,21,429,16,465,16"/>
+<area shape="rect" id="Node000004" href="$group__menu.html#gafe1e23e0aa0f2f0a2008652e912cd66a" title="Main loop of the menu module." alt="" coords="162,5,281,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,21,282,21,282,16,313,16"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga7a72220d8366dd84709e79ce415862e5" title="Initialization of the project." alt="" coords="5,31,114,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,33,115,38,114,33,146,28"/>
+<area shape="rect" id="Node000007" href="$group__game.html#ga43344c9fbe4022056e87cbf2a1a77e87" title=" " alt="" coords="183,56,260,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="467,72,260,72,260,67,467,67"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="167,64,114,55,114,50,168,58"/>
+</map>
