@@ -27,7 +27,7 @@ This maze game was developed as part of the LCOM course, utilizing low-level C p
 
 This maze game was developed as part of the LCOM course, utilizing low-level C programming on the MINIX operating system. It offers both single-player and multiplayer modes, challenging players to navigate intricate labyrinths as quickly as possible. Designed to run on MINIX, this project provides valuable insights into operating system concepts and low-level programming.
 
-![Maze Game Screenshot](images/maze_game_screenshot.png)
+
 
 ## User Instructions
 
@@ -45,8 +45,7 @@ We developed a comprehensive and user-friendly menu for our game, featuring four
 
 The menu can be controlled using the mouse to select and click on each button.
 
-![Game Menu](images/game_menu.png)
-
+![Menu](images/menu.png)
 ### Controls
 
 The player can move in four directions: forward, backward, left, and right. Rotation is determined by a trigonometric relationship between the player's position and the mouse's position, enhancing the intuitive nature of the controls.
@@ -55,7 +54,7 @@ The player can move in four directions: forward, backward, left, and right. Rota
 
 In single-player mode, the player navigates through a simple labyrinth to reach the end in the shortest time possible. The player is surrounded by a small visible circle, allowing them to see a fraction of the environment. Movement and rotation are controlled using the mouse and keyboard, providing a smooth and intuitive experience. Once the player reaches the end of the labyrinth, the screen displays the elapsed time.
 
-![Singleplayer Mode](images/singleplayer_mode.png)
+![Singleplayer Mode](images/Single.png)
 
 ### Multiplayer Mode
 
@@ -65,7 +64,7 @@ To make the game more fun and competitive, we developed a multiplayer mode. In t
 
 Intended for new players, the "How to Play" screen provides instructions about the controls for the game.
 
-![Instructions Screen](images/instructions_screen.png)
+![Instructions Screen](images/instructions.png)
 
 ## Project Status
 
